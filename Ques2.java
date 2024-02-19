@@ -15,3 +15,6 @@ public class Ques2 {
 	}
 
 }
+
+Output:
+Even Number

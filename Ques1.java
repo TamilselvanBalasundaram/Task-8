@@ -21,3 +21,6 @@ public class Ques1 {
 	}
 
 }
+
+Output:
+the sum of a & b is greater than the sum of c & d

@@ -14,3 +14,6 @@ public class Ques10 {
 	}
 
 }
+
+Output:
+8

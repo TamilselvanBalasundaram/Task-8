@@ -19,3 +19,6 @@ public class Ques9 {
 	}
 
 }
+
+Output:
+The person is a senior citizen

@@ -24,4 +24,8 @@ public class Ques5 {
 }
 }
 
+Output:
+true
+23 is a prime number
+
 

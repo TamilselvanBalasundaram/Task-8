@@ -13,3 +13,6 @@ public class Ques7 {
 		}
 
 }
+
+Output:
+The length of the string is 8

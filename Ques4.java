@@ -24,3 +24,10 @@ public class Ques4
 	}
 
 }
+
+Output:
+10
+20
+Before Swapping a & b is 10 & 20
+After swapping a & b is 20 & 10
+

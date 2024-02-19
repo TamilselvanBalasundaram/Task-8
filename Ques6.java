@@ -15,3 +15,16 @@ public class Ques6 {
 	}
 
 }
+
+Output:
+1
+sum - 1
+2
+sum - 2
+3
+sum - 6
+4
+sum - 24
+5
+sum - 120
+5! = 120
